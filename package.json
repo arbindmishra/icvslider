@@ -1,7 +1,6 @@
 {
-  "name": "@angular-slider/ngx-slider",
-  "version": "2.0.4",
-  "private": true,
+  "name": "icvslider",
+  "version": "1.0.0",
   "description": "Self-contained, mobile friendly slider component for Angular 5+ based on angularjs-slider",
   "keywords": [
     "slider",
@@ -11,11 +10,11 @@
     "ng",
     "ngx"
   ],
-  "author": "Piotr Dziwinski",
+  "author": "Arbind Mishra",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular-slider/ngx-slider.git"
+    "url": "https://github.com/arbindmishra/icvslider.git"
   },
   "bugs": {
     "url": "https://github.com/angular-slider/ngx-slider/issues"
